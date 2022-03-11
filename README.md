@@ -44,7 +44,7 @@ Get Akarin
 #### Compile
 
 ```sh
-git submodule update --init --recursive
+git submodule update --remote
 ./akarin jar
 ```
 
